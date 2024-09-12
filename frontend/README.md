@@ -4,6 +4,7 @@
 
 This is the frontend for the Ecommerce App, a project aimed at providing users with a seamless online shopping experience. The frontend is built using React.js with Vite for fast development and Tailwind CSS for styling. The app leverages modern React hooks and Toastmaster for alerting users about changes in the app, such as product additions to the cart or successful checkouts.
 
+
 ## Table of Contents
 
 - [Features](#features)
@@ -11,9 +12,6 @@ This is the frontend for the Ecommerce App, a project aimed at providing users w
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Running the App](#running-the-app)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -60,20 +58,3 @@ Make sure you have the following installed:
 
 
 
-
-## Folder Structure
-
-Ecommerce-App/
-├── frontend/
-│   ├── public/          # Static files
-│   ├── src/             # Application source code
-│   │   ├── components/  # Reusable UI components
-│   │   ├── pages/       # Application pages
-│   │   ├── context/     # Context API for managing global state
-│   │   └── assets/      # Images, icons, etc.
-│   ├── .gitignore       # Files to ignore in Git
-│   ├── package.json     # Project metadata and dependencies
-│   └── README.md        # Project documentation
-
-  
-    
